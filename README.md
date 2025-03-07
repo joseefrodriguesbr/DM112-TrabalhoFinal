@@ -1,4 +1,6 @@
-# DM112-TrabalhoFinal
+# DM112 - Cloud Computing, Programação OO, WebServices e SOA
+
+# Trabalho final 1
 
 ## Atividade proposta: 
 
